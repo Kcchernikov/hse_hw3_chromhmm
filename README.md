@@ -91,3 +91,7 @@ Active Promoter. Находится вблизи CPG островков. Выр�
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/80039707/228284003-90f1f512-67f6-4553-87c6-16c6035034ee.png">
 Weak transcribed. Чаще всего находятся на RefSeqGene, а также на RefSeqTES и RefSeqExon. Выражен в H3k79me2, H3k04me1, H3k04me2, H3k04me3, H3k09ac, H3k27ac. Попадает на интрон или экзон.
 
+## Бонус
+
+Код находится в collab
+<img width="958" alt="image" src="https://user-images.githubusercontent.com/80039707/228298493-1c91c195-9328-4271-bea2-3835bf21b7dd.png">
