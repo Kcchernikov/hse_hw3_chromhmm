@@ -49,6 +49,3 @@
 ### RefSeqTES
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/80039707/228236231-c941cc08-fb6b-4ccf-8408-f708c88c8079.png">
 
-
-
-| H3k09me3 | wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam    |
