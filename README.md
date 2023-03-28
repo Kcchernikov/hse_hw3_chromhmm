@@ -49,3 +49,21 @@
 ### RefSeqTES
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/80039707/228236231-c941cc08-fb6b-4ccf-8408-f708c88c8079.png">
 
+## Эпигенетические типы
+
+### Тип 2
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/80039707/228275319-f79b7f37-b318-450b-86e1-184211a2d66d.png">
+Polycomb-repressed. Чаще всего находятся на ядерной ламине, попадает на репрессированный участок. Не попадает на ген (видно на overlap)
+
+### Тип 7
+<img width="975" alt="image" src="https://user-images.githubusercontent.com/80039707/228272027-2c8dd969-50d5-439f-951f-2bcaec6c82a0.png">
+Weak enhancer. Выражен в H3k04me1, H2AFZ. Попадает на RefSeqTES или ламину.
+
+### Тип 8
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/80039707/228271397-489583d9-f274-4d87-8db2-9f3fcc488e76.png">
+Active Promoter. Находится вблизи CPG островков. Выражен в H3k04me1, H3k04me2, H2AFZ. Попадает на интрон или экзон.
+
+### Тип 9
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/80039707/228273117-69a1ed77-5fe9-4b11-a1cc-84cd11557a0a.png">
+Active Promoter. Находится вблизи CPG островков. Выражен в H3k04me1, H3k04me2, H3k09ac, H3k27ac, H3k04me3. Попадает на интрон или экзон.
+
