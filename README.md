@@ -17,7 +17,7 @@
 | H3k09ac  | wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam     |
 | H3k09me3 | wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam    |
 
-## cellmarkfiletable.txt (Добавить ссылку)
+## [cellmarkfiletable.txt](https://github.com/Kcchernikov/hse_hw3_chromhmm/blob/main/data/cellmarkfiletable.txt)
 
 | Клеточная линия | Гистоновая метка | Файл с меткой | Файл с контролем |
 |-----------------|------------------|---------------|------------------|
